@@ -1,0 +1,2052 @@
+{
+  "map": [
+    [
+      {
+        "road": 0,
+        "resource": {
+          "type": "uranium",
+          "amount": 333
+        }
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "wood",
+          "amount": 500
+        }
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "wood",
+          "amount": 500
+        }
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "wood",
+          "amount": 500
+        }
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "wood",
+          "amount": 500
+        }
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "uranium",
+          "amount": 333
+        }
+      }
+    ],
+    [
+      {
+        "road": 0,
+        "resource": {
+          "type": "uranium",
+          "amount": 305
+        }
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "uranium",
+          "amount": 305
+        }
+      }
+    ],
+    [
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      }
+    ],
+    [
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      }
+    ],
+    [
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "coal",
+          "amount": 367
+        }
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "coal",
+          "amount": 414
+        }
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "coal",
+          "amount": 414
+        }
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "coal",
+          "amount": 367
+        }
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      }
+    ],
+    [
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "coal",
+          "amount": 408
+        }
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "coal",
+          "amount": 395
+        }
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "coal",
+          "amount": 395
+        }
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "coal",
+          "amount": 408
+        }
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      }
+    ],
+    [
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "coal",
+          "amount": 360
+        }
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "coal",
+          "amount": 360
+        }
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      }
+    ],
+    [
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      }
+    ],
+    [
+      {
+        "road": 0,
+        "resource": {
+          "type": "coal",
+          "amount": 378
+        }
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "coal",
+          "amount": 400
+        }
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "coal",
+          "amount": 400
+        }
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "coal",
+          "amount": 378
+        }
+      }
+    ],
+    [
+      {
+        "road": 0,
+        "resource": {
+          "type": "coal",
+          "amount": 411
+        }
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "coal",
+          "amount": 400
+        }
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "coal",
+          "amount": 400
+        }
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "coal",
+          "amount": 411
+        }
+      }
+    ],
+    [
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "wood",
+          "amount": 500
+        }
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "wood",
+          "amount": 500
+        }
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "wood",
+          "amount": 500
+        }
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "wood",
+          "amount": 500
+        }
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "wood",
+          "amount": 500
+        }
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "wood",
+          "amount": 500
+        }
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      }
+    ],
+    [
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "wood",
+          "amount": 492
+        }
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "wood",
+          "amount": 476
+        }
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "wood",
+          "amount": 492
+        }
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "wood",
+          "amount": 500
+        }
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "wood",
+          "amount": 500
+        }
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "wood",
+          "amount": 500
+        }
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      }
+    ],
+    [
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 6
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      }
+    ],
+    [
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      }
+    ],
+    [
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "wood",
+          "amount": 0
+        }
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "wood",
+          "amount": 0
+        }
+      },
+      {
+        "road": 6,
+        "resource": {
+          "type": "wood",
+          "amount": 0
+        }
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "wood",
+          "amount": 500
+        }
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "wood",
+          "amount": 500
+        }
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "wood",
+          "amount": 504
+        }
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      }
+    ],
+    [
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 6
+      },
+      {
+        "road": 6
+      },
+      {
+        "road": 6
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 6
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      }
+    ],
+    [
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "wood",
+          "amount": 492
+        }
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "wood",
+          "amount": 476
+        }
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 6
+      },
+      {
+        "road": 6
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "wood",
+          "amount": 476
+        }
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "wood",
+          "amount": 492
+        }
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      }
+    ],
+    [
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "wood",
+          "amount": 500
+        }
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "wood",
+          "amount": 492
+        }
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "wood",
+          "amount": 492
+        }
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "wood",
+          "amount": 500
+        }
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      }
+    ],
+    [
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      }
+    ],
+    [
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      }
+    ],
+    [
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      }
+    ],
+    [
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      }
+    ],
+    [
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      }
+    ],
+    [
+      {
+        "road": 0,
+        "resource": {
+          "type": "coal",
+          "amount": 389
+        }
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "uranium",
+          "amount": 345
+        }
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "uranium",
+          "amount": 345
+        }
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0
+      },
+      {
+        "road": 0,
+        "resource": {
+          "type": "coal",
+          "amount": 389
+        }
+      }
+    ]
+  ],
+  "cities": {
+    "c_1": {
+      "id": "c_1",
+      "fuel": 227,
+      "lightupkeep": 65,
+      "team": 0,
+      "cityCells": [
+        {
+          "x": 8,
+          "y": 15,
+          "cooldown": 4
+        },
+        {
+          "x": 7,
+          "y": 15,
+          "cooldown": 3
+        },
+        {
+          "x": 9,
+          "y": 15,
+          "cooldown": 2
+        },
+        {
+          "x": 8,
+          "y": 16,
+          "cooldown": 0
+        },
+        {
+          "x": 7,
+          "y": 16,
+          "cooldown": 7
+        }
+      ]
+    },
+    "c_11": {
+      "id": "c_11",
+      "fuel": 60,
+      "lightupkeep": 23,
+      "team": 0,
+      "cityCells": [
+        {
+          "x": 7,
+          "y": 12,
+          "cooldown": 8
+        }
+      ]
+    }
+  }
+}
